@@ -17,7 +17,7 @@ title: MS&E 125
 tagline: 'MS&E 125: Applied Statistics'
 description: MS&E 125 Spring 2022
 author: Josh Grossman
-baseurl: '/mse125' # the subpath of your site, e.g. /blog
+baseurl: '/mse125-2022' # the subpath of your site, e.g. /blog
 url: 'https://jdgrossman.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
