@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MS&E 125
-tagline: 'MS&E 125: Applied Statistics'
+tagline: 'MS&E 125: Applied Statistics [Spring 2022]'
 description: MS&E 125 Spring 2022
 author: Josh Grossman
 baseurl: '/mse125-2022' # the subpath of your site, e.g. /blog
